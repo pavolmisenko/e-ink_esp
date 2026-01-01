@@ -11,7 +11,6 @@ https://randomnerdtutorials.com/esp32-spi-communication-arduino/
 | VCC                | 3.3V                |
 | GND                | GND                 |
 | DIN (MOSI)         | GPIO23              |
-| MISO (MISO)        | GPIO19              |
 | CLK (SCK)          | GPIO18              |
 | CS                 | GPIO5               |
 | DC                 | GPIO22              |
